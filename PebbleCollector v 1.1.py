@@ -1,3 +1,5 @@
+##Version 1.1
+##Made for bored people!
 from tkinter import *
 import time
 
